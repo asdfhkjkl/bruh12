@@ -1,6 +1,6 @@
 {
   "checkpoints": [
-    "https://civitai.com/api/download/models/2167369?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    "https://huggingface.co/John6666/wai-nsfw-illustrious-sdxl-v150-sdxl/resolve/main/unet/diffusion_pytorch_model.safetensors?download=true"
   ],
   "vae": [
   ],
