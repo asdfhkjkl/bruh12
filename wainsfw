@@ -2,11 +2,11 @@
   "checkpoints": [
   ],
   "vae": [
+    "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors"
   ],
   "unet": [
   ],
   "diffusion_models": [
-    "https://civitai.com/api/download/models/2167369?type=Model&format=SafeTensor&size=pruned&fp=fp16"
   ],
   "text_encoders": [
   ],
