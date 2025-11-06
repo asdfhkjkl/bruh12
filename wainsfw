@@ -1,8 +1,8 @@
 {
-  "checkpoints": [https://civitai.com/api/download/models/2167369?type=Model&format=SafeTensor&size=pruned&fp=fp16
+  "checkpoints": [
+    "https://civitai.com/api/download/models/2167369?type=Model&format=SafeTensor&size=pruned&fp=fp16"
   ],
   "vae": [
-    ""
   ],
   "unet": [
   ],
@@ -24,7 +24,8 @@
   ],
   "audio_encoders": [
   ],
-  "clip": [],
+  "clip": [
+  ],
   "detection": [
   ]
 } 
